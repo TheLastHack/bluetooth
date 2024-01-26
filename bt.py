@@ -1,6 +1,6 @@
 import os
 import time 
-os.system("pip install --user pybluez")
+os.system("pip install --user pybluez2")
 time.sleep(2)
 os.system("clear")
 
